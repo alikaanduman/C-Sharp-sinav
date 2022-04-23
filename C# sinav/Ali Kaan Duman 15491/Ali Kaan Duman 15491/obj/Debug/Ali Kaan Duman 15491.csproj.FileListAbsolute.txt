@@ -1,0 +1,11 @@
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\bin\Debug\Ali Kaan Duman 15491.exe.config
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\bin\Debug\Ali Kaan Duman 15491.exe
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\bin\Debug\Ali Kaan Duman 15491.pdb
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali Kaan Duman 15491.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali_Kaan_Duman_15491.Form1.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali_Kaan_Duman_15491.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali Kaan Duman 15491.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali Kaan Duman 15491.exe
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali Kaan Duman 15491.pdb
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali_Kaan_Duman_15491.Form2.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Ali Kaan Duman 15491\obj\Debug\Ali_Kaan_Duman_15491.Form3.resources
